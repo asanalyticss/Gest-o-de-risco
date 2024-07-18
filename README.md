@@ -8,7 +8,11 @@ O algoritmo solicita ao usuário o nome da moeda, o preço de compra e o preço 
 
 #Exemplo
 #Digite o nome da moeda: BTC
+
 #Digite o preço de compra da moeda BTC: 30000
+
 #Agora digite o preço do StopLoss: 29000
+
 #Considerando que a distância do seu stop está a -3.33% de distância
+
 #Você terá que investir 30.03% do capital
